@@ -1,7 +1,13 @@
 # 💫 About Me:
-Hii Myself Anjali kansara <br>i'm 2nd year student in B.tch computer science <br>learning about C++,java and javascript<br>looking forward to collabrate on whatsapp,instagram,etc.<br> <br>
+A passionate B.Tech CSE student, focused on Cyber security, Software & web Development 💻📊
+🧑‍💻 Currently learning Java, SQL, and Python (Pandas, NumPy, Matplotlib)
+🛠️ Working on a Java-based Inventory Management System with MySQL integration and python Basics
+🤝 Open to collaboration on Web devlopments Projects, Machine Learning, and cyber projects
+💬 Ask me about Python Basics, Java, and MySQL
+📧 How to reach me: [anjalikansar2006@gmail.com]
 
-
+Skills & Technologies:
+HTML,HTML5, CSS, C, Python, Java, MySQL, C++, JavaScript, Red Hat, LinkedIn
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anjali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
