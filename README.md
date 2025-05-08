@@ -19,10 +19,17 @@ HTML,HTML5, CSS, C, Python, Java, MySQL, C++, JavaScript, Red Hat, LinkedIn
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # GitHub Stats
 
-✨ **Public Repositories*: 5  
-👥 **Followers**: 4  
-➡️ **Following**: 7
+✨ *Public Repositories*:
+🔒 *Private Repositories*:
+👥 **Followers**:  
+➡️ **Following**: 4
 
 ## Connect with Me
 
-https://www.linkedin.com/in/anjali-kansara-6a9191346/
+https://www.linkedin.com/in/anjali-kansara-6a9191346/<br/>
+https://pin.it/4E5W4rdOt
+
+# 📊 GitHub Activity Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
+
