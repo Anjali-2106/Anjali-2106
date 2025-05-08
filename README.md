@@ -18,3 +18,15 @@ HTML,HTML5, CSS, C, Python, Java, MySQL, C++, JavaScript, Red Hat, LinkedIn
 [![](https://visitcount.itsvg.in/api?id=Anjali&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# GitHub Stats
+
+✨ **Public Repositories**: 5  
+👥 **Followers**: 4  
+➡️ **Following**: 7
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-id/)
+
