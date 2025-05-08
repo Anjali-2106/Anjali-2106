@@ -11,9 +11,9 @@ HTML,HTML5, CSS, C, Python, Java, MySQL, C++, JavaScript, Red Hat, LinkedIn
 
 # GitHub Stats
 
-✨ *Public Repositories*: 3/<br/>
-🔒 *Private Repositories*: 2/<br/>
-👥 **Followers**:  /<br/>
+✨ *Public Repositories*: 3 <br/>
+🔒 *Private Repositories*: 2 <br/>
+👥 **Followers**:  <br/>
 ➡️ **Following**: 4
 
 ## Connect with Me
