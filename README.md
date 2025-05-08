@@ -1,9 +1,9 @@
 # 💫 About Me:
 A passionate B.Tech CSE student, focused on Cyber security, Software & web Development. 💻📊<br/>
-🧑‍💻 Currently learning Java, SQL, and Python (Pandas, NumPy, Matplotlib).
-🛠️ Working on a Java-based Inventory Management System with MySQL integration and python Basics.
-🤝 Open to collaboration on Web devlopments Projects, Machine Learning, and cyber projects.
-💬 Ask me about Python Basics, Java, and MySQL.
+🧑‍💻 Currently learning Java, SQL, and Python (Pandas, NumPy, Matplotlib).<br/>
+🛠️ Working on a Java-based Inventory Management System with MySQL integration and python Basics.<br/>
+🤝 Open to collaboration on Web devlopments Projects, Machine Learning, and cyber projects.<br/>
+💬 Ask me about Python Basics, Java, and MySQL.<br/>
 📧 How to reach me: [anjalikansar2006@gmail.com]
 
 #Skills & Technologies:
