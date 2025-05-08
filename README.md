@@ -31,5 +31,5 @@ https://pin.it/4E5W4rdOt
 
 # 📊 GitHub Activity Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjali-2106&theme=github-dark)
 
