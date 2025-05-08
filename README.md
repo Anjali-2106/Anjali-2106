@@ -10,7 +10,6 @@ A passionate B.Tech CSE student, focused on Cyber security, Software & web Devel
 HTML,HTML5, CSS, C, Python, Java, MySQL, C++, JavaScript, Red Hat, LinkedIn
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anjali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anjali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
