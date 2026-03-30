@@ -7,7 +7,10 @@ A passionate B.Tech CSE student, focused on Cyber security, Software & web Devel
 📧 How to reach me: [anjalikansar2006@gmail.com] , 9104461014
 
 # Skills & Technologies:
-HTML,HTML5, CSS, C, Python, Java, MySQL, C++, JavaScript, Red Hat, LinkedIn
+Programming & Scripting: Python, Java, C, C++, JavaScript, Concepts in Object-Oriented Programming, DBMS, Operating System
+Cyber Security Tools: Burp Suite, Nmap, Metasploit Framework, SQLMap, Wireshark.
+Platforms & Environments: Windows, Linux, Kali Linux
+Networking Concepts: TCP/IP, Network Protocols, Packet Analysis 
 
 ## Connect with Me
 
